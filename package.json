@@ -1,0 +1,13 @@
+{
+    "name": "curso-Node-Socket",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.10.6",
+        "jade": "1.8.2",
+        "consolidate": "0.10.0",
+        "socket.io": "1.2.1",
+       "sanitizer": "*",
+       "ejs":"*",
+       "johnny-five": "*"
+    }
+}
